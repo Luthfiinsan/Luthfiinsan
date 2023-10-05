@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luthfiinsan
 - 👀 I’m interested in GIS, mapping, and remote sensing
-- 🌱 I’m currently learning WEBGIS
-- 💞️ I’m looking to collaborate on all about GIS
+- 🌱 I’m currently learning python for GIS
+- 💞️ I’m looking to collaborate on all about GIS and Geography related studies
 - 📫 How to reach me www.linkedin.com/in/luthfiinsan
 
 <!---
